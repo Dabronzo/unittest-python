@@ -1,0 +1,14 @@
+Unittest on Python
+
+
+The Function
+
+A function that takes an list of numbers as an argument and returns true if
+the number of even numbers are even.
+
+Suggested Test
+
+1-) Should raise a TypeError if a list is not passed as argument
+2-) if the list(numbers) is empty return False
+3-) if the number of even is odd return False
+4-) if the number of even is 0 return False
